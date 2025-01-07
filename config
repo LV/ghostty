@@ -1,4 +1,2 @@
-font-family = "PragmataPro Mono Liga"
-font-size = 12
-
-gtk-titlebar = false
+# Uncomment for the desired configuration
+# config-file = macos
