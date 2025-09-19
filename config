@@ -1,3 +1,4 @@
 # Uncomment for the desired configuration
 # config-file = macos
+keybind = shift+enter=text:\x1b\r
 theme = Bluloco Dark
